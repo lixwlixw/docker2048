@@ -1,1 +1,1 @@
-FROM registry.dataos.io/datafoundry/docker-2048
+FROM registry.dataos.io/datafoundry/2048
